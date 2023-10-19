@@ -166,10 +166,10 @@ for example, http:192.168.5.30
 
 Set new user and password
 for example
-
+```
 user: admin
 password: admin
-
+```
 Input database fields 
 
 ```
@@ -178,3 +178,6 @@ username: username
 password: password
 ```
 
+And then click on Install recommended appas.
+
+Now nextcloud is starts.
