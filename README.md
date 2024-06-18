@@ -181,3 +181,11 @@ password: password
 And then click on Install recommended appas.
 
 Now nextcloud is starts.
+
+
+---
+
+# Dockerize
+
+https://github.com/nextcloud/all-in-one#how-to-use-this
+
