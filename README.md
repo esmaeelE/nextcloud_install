@@ -1,6 +1,13 @@
 # nextcloud_install
 Nextcloud installation
 
+## Recommended installation method is docker container
+
+# Dockerize
+
+https://github.com/nextcloud/all-in-one#how-to-use-this
+
+
 ## Install on Debian 12 stable
 
 ### Update repository list and Upgrade distro
@@ -184,8 +191,4 @@ Now nextcloud is starts.
 
 
 ---
-
-# Dockerize
-
-https://github.com/nextcloud/all-in-one#how-to-use-this
 
