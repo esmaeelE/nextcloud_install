@@ -6,6 +6,11 @@ Recommended installation method is in docker container
 docker compose -f compose.yml up -d
 ```
 
+TODO
+- Use as File server
+- Internal chat application
+- Persian support
+
 ---
 
 
