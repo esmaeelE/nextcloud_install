@@ -1,5 +1,4 @@
-version: "3"
-
+---
 services:
   nextcloud-app:
     image: nextcloud
@@ -13,7 +12,9 @@ services:
       - MYSQL_HOST=nextcloud-db
     ports:
       # only listen on localhost
-      - "127.0.0.1:6666:80"
+      # - "127.0.0.1:8080:80"
+      - "0.0.0.0:8080:80"
+
 
   nextcloud-db:
     image: mariadb
